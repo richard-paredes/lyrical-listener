@@ -11,8 +11,6 @@
 
     <ItemGroup>
         <PackageReference Include="AngleSharp" Version="0.15.0" />
-        <PackageReference Include="AngleSharp.Io" Version="0.15.0" />
-        <PackageReference Include="Genius.NET" Version="4.0.1" />
         <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.17.0" />
         <PackageReference Include="Microsoft.AspNetCore.SpaServices.Extensions" Version="5.0.4" />
         <PackageReference Include="SpotifyAPI.Web" Version="6.2.0" />
