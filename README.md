@@ -8,7 +8,7 @@ Listen along with the integrated Spotify web player as let us get the lyrics for
 https://lyrical-listener.azurewebsites.net/
 
 # Running locally
-1. Clone the repository.
+1. Download or clone the repository.
 2. Configure your client with the <a href="https://developer.spotify.com/">Spotify Developer API</a>.
 3. Add the Spotify Client ID to <a href="https://github.com/richard-paredes/lyrical-listener/blob/master/LyricalListener/ClientApp/.env">`LyricalListener/ClientApp/.env`</a>
 4. Add the Spotify Client ID and Client Secret to <a href="https://github.com/richard-paredes/lyrical-listener/blob/master/LyricalListener/appsettings.json">`LyricalListener/appsettings.json`</a>
