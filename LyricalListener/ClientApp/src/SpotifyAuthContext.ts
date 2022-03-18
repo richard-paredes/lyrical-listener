@@ -1,4 +1,4 @@
-mport {createContext} from "react";
+import {createContext} from "react";
 
 interface SpotifyAuthContextValue {
     accessToken: string;
